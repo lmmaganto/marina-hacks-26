@@ -2,7 +2,7 @@
 ## Wander Help
 
 # Teammembers
-Ria Mishra
-Louise Marie Maganto
-Pich Monyneath Kheng
-Madeeha Islam
+Ria Mishra <br>
+Louise Marie Maganto <br>
+Pich Monyneath Kheng <br>
+Madeeha Islam <br>
